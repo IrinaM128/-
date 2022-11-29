@@ -1,0 +1,43 @@
+<style>
+
+
+body{
+	font-family: sans-serif;
+	text-align: center;
+	min-height: 100vh;
+	color: #555;
+	background-color: coral;
+}
+
+form {
+	max-width: 400px;
+	min-height: 200px;
+	margin: 100px auto;
+	border:  thin solid #e4e4e4;
+	padding: 30px;
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+	background-color: white;
+}
+
+
+.btn {
+    color: white;          
+    background: orange;
+              
+}
+
+#logInForm {
+              
+   display:none;
+              
+}
+          
+.toggleForms {
+              
+    font-weight: bold;
+    color: #00BFFF;
+              
+}
+
+
+</style>
