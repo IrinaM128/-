@@ -12,7 +12,7 @@ class RegisterUser{
 	public $success;
 	private $storage = "data.json";
 	private $stored_users;
-	private $new_user; // array 
+	private $new_user;  
 
 
 	public function __construct($login, $name, $email, $userPassword, $confirmPassword){
@@ -94,4 +94,4 @@ class RegisterUser{
 
 
 
-} // end of class
+} 
